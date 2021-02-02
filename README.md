@@ -15,4 +15,11 @@ Let us say human chooses shell number 1 and the AI chooses shell 5. Human next c
 valueOf(shell 1) + valueOf(shell 2) + valueOf(shell 3) = 15
 ```
 
-Since the human places 'X' in shell 1 and $2$
+Since the human places 'X' in shell 1 and shell 2, Bot does this calculation:
+
+```
+valueOf(shell 1) + valueOf(shell 2) + valueOf(shell 3) = 15
+valueOf(shell 3) = 15 - 2 - 7
+valueOf(shell 3) = 6
+```
+We know Value 6 corresponds to shell number 3 so, Bot puts its 'O' in shell 3
