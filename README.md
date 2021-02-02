@@ -1,1 +1,1 @@
-# Magic-Square-Algorithm-for-Tic-Tac-Toe-AI
+# Magic Square Algorithm for Tic Tac Toe AI
