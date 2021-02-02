@@ -14,3 +14,5 @@ Let us say human chooses shell number 1 and the AI chooses shell 5. Human next c
 ```
 valueOf(shell 1) + valueOf(shell 2) + valueOf(shell 3) = 15
 ```
+
+Since the human places 'X' in shell 1 and $2$
